@@ -1,0 +1,7 @@
+send("This is a test for sending strings")
+var fish = "I'm a variable!"
+send(fish)
+if true:
+    send("This statement is true!")
+else:
+    send("This statement is false!")
